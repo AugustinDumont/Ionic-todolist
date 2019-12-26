@@ -1,4 +1,6 @@
-# Workshop-Ionic by Simon Jolet (https://github.com/SImonJolet)
+# Workshop-Ionic by Simon Jolet
+
+- (https://github.com/SImonJolet)
 
 ![Notre app](https://drissas.com/wp-content/uploads/2019/11/ionic-todolist.gif)
 
